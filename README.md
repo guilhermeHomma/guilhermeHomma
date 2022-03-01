@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2>### OLÁ, EU SOU O GUILHERME 😆 ###</h2>
 
-<!--
-**guilhermeHomma/guilhermehomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Atualmente estou estudando Análise e Desenvolvimento de Sistemas(SPTECH).
+- O último projeto que trabalhei foi para a Arizona, começou em julho de 2021 e terminou no início de fevereiro de 2022. Eu e minha equipe atualizamos as páginas de todos os produtos da Natura de cinco países diferentes.
+- Sem dúvidas o que eu mais gosto de fazer é desenvolver jogos.
+- Vamos ver onde até onde eu consigo chegar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehomma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehomma&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
