@@ -1,4 +1,4 @@
-<h2>### OLÁ, MEU NOME É GUILHERME 😆 ###</h2>
+<h2>### OLÁ, MEU NOME É GUILHERME ###</h2>
 
 - Sou novo por aqui;
 - Atualmente estou estudando Jogos Digitais(Fatec);
