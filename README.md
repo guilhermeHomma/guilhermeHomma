@@ -9,7 +9,7 @@ Eu já cheguei até aqui, vamos ver até onde eu consigo chegar.<br>
 
 <div> <!-- <div align="center"> -->
   <a href="https://github.com/guilhermeHomma">
-  <img height="180em" src="https://brackets-github-stats.vercel.app?username=guilhermeHomma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://brackets-github-stats.vercel.app/api?username=guilhermeHomma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://brackets-github-stats.vercel.app/api/top-langs/?username=guilhermeHomma&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
