@@ -1,7 +1,8 @@
 <h2>### OLÁ, MEU NOME É GUILHERME ###</h2>
 
-- Sou novo por aqui;
+- Migrando para back-end.
 - Sem dúvidas o que eu mais gosto de fazer é desenvolver jogos.
+
 
 Eu já cheguei até aqui, vamos ver até onde eu consigo chegar.<br>
 <!-- Caso queira ver alguns dos meus jogos clique [aqui](https://guilhermehomma.itch.io) =D -->
