@@ -1,6 +1,7 @@
 <h2>### OLÁ, MEU NOME É GUILHERME ###</h2>
 
 - Desenvolvedor Unity e Godot.
+- Python.
 - Migrando para back-end.
 - Sem dúvidas o que eu mais gosto de fazer é desenvolver jogos.
 <br>
