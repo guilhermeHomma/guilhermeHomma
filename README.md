@@ -2,7 +2,7 @@
 
 - Desenvolvedor Unity e Godot.
 - Python / C#.
-- Sem dúvidas o que eu mais gosto de fazer é desenvolver jogos.
+- Sem dúvidas, o que eu mais gosto de fazer é desenvolver jogos.
 <br>
 
 <h4>⬇️tecnologias que utilizo⬇️</h4>
