@@ -1,11 +1,11 @@
-<h2>### OLÁ, MEU NOME É GUILHERME ###</h2>
+<h2>### Hello, I am Homma ###</h2>
 
-- Desenvolvedor / Programador.
-- Python / C# / Unity / Godot.
-- Sem dúvidas, o que eu mais gosto de fazer é desenvolver jogos.
+- Software Engineer.
+- Python / Django / C# / Unity / Godot.
+- Sometimes I like to make games.
 <br>
 
-<h4>⬇️tecnologias que utilizo⬇️</h4>
+<h4>⬇️technologies⬇️</h4>
 <div style:"display: inline_block">
  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-<h4>Redes Sociais🚀</h4>
+<h4>Social midia🚀</h4>
 <!-- Caso queira ver alguns dos meus jogos clique [aqui](https://guilhermehomma.itch.io) =D -->
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-homma-298073233/)
